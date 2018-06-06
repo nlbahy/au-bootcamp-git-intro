@@ -1,4 +1,6 @@
 #!/bin/sh
+###### How to dm with secrecy ~ avoiding both ur parents and S.O. 
+####by Kai, April, Nadia, Naudia, and Audrey
 
 # How this script should behave:
 #
