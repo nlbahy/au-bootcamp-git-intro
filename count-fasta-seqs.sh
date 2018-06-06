@@ -101,4 +101,5 @@ echo "$@"
 # Hey y'all! I'm not actually sure what I should be adding but I wanted to see if this works. :-) - Audrey
 
 #I have no idea either, but this is still fun. I wanted to add something too. - Naudia
->>>>>>> a68ec07cfc1441253638096c2aa99de15a5e9208
+#I finally fixed my mistake and am back in the game -other Nadia 
+
